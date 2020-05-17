@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+This is Udyoth here, I love software engineering(software is what i'm made of).
+
